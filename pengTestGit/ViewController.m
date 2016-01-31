@@ -23,6 +23,7 @@
     NSLog(@"peng");
     NSLog(@"master&dev");
     NSLog(@"test 分支策略");
+    NSLog(@"bug 分支test");
 }
 
 - (void)didReceiveMemoryWarning {
