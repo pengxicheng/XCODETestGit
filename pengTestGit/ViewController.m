@@ -20,6 +20,7 @@
     NSLog(@"test commit to server");
     NSLog(@"test maset & checkout");
     NSLog(@"test three");
+    NSLog(@"peng");
 }
 
 - (void)didReceiveMemoryWarning {
