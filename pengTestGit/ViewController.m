@@ -21,7 +21,7 @@
     NSLog(@"test maset & checkout");
     NSLog(@"test three");
     NSLog(@"peng");
-    NSLog(@"master");
+    NSLog(@"master&dev");
 }
 
 - (void)didReceiveMemoryWarning {
