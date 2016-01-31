@@ -19,6 +19,7 @@
     // Do any additional setup after loading the view, typically from a nib.
     NSLog(@"test commit to server");
     NSLog(@"test maset & checkout");
+    NSLog(@"test three");
 }
 
 - (void)didReceiveMemoryWarning {
